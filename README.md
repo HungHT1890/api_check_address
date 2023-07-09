@@ -9,8 +9,6 @@
         'Content-Length': '181',
         'Content-Type': 'application/json',
         'Host': 'publicapi-p.evine.net',
-        'Origin': 'https://www.shophq.com',
-        'Referer': 'https://www.shophq.com/',
         'Sec-Fetch-Dest': 'empty',
         'Sec-Fetch-Mode': 'cors',
         'Sec-Fetch-Site': 'cross-site',
